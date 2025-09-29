@@ -3,7 +3,7 @@ string nome = "Matheus";
 string cidade = "Cerro Corá";
 
 // Concatenação através do +
-// Contatena variáveis com strings (textos)
+// Concatena variáveis com strings (textos)
 
 Console.WriteLine(nome + " mora em " + cidade + ".");
 
