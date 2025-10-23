@@ -1,0 +1,15 @@
+C:\Users\Windows falido\Music\Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o\11condicional_encadeada\bin\Debug\net8.0\11condicional_encadeada.exe
+C:\Users\Windows falido\Music\Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o\11condicional_encadeada\bin\Debug\net8.0\11condicional_encadeada.deps.json
+C:\Users\Windows falido\Music\Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o\11condicional_encadeada\bin\Debug\net8.0\11condicional_encadeada.runtimeconfig.json
+C:\Users\Windows falido\Music\Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o\11condicional_encadeada\bin\Debug\net8.0\11condicional_encadeada.dll
+C:\Users\Windows falido\Music\Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o\11condicional_encadeada\bin\Debug\net8.0\11condicional_encadeada.pdb
+C:\Users\Windows falido\Music\Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o\11condicional_encadeada\obj\Debug\net8.0\11condicional_encadeada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows falido\Music\Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o\11condicional_encadeada\obj\Debug\net8.0\11condicional_encadeada.AssemblyInfoInputs.cache
+C:\Users\Windows falido\Music\Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o\11condicional_encadeada\obj\Debug\net8.0\11condicional_encadeada.AssemblyInfo.cs
+C:\Users\Windows falido\Music\Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o\11condicional_encadeada\obj\Debug\net8.0\11condicional_encadeada.csproj.CoreCompileInputs.cache
+C:\Users\Windows falido\Music\Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o\11condicional_encadeada\obj\Debug\net8.0\11condicional_encadeada.sourcelink.json
+C:\Users\Windows falido\Music\Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o\11condicional_encadeada\obj\Debug\net8.0\11condicional_encadeada.dll
+C:\Users\Windows falido\Music\Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o\11condicional_encadeada\obj\Debug\net8.0\refint\11condicional_encadeada.dll
+C:\Users\Windows falido\Music\Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o\11condicional_encadeada\obj\Debug\net8.0\11condicional_encadeada.pdb
+C:\Users\Windows falido\Music\Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o\11condicional_encadeada\obj\Debug\net8.0\11condicional_encadeada.genruntimeconfig.cache
+C:\Users\Windows falido\Music\Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o\11condicional_encadeada\obj\Debug\net8.0\ref\11condicional_encadeada.dll
