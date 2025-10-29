@@ -1,0 +1,15 @@
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/12condicional_operadores_logicos/obj/Debug/net9.0/12condicional_operadores_logicos.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/12condicional_operadores_logicos/obj/Debug/net9.0/12condicional_operadores_logicos.AssemblyInfoInputs.cache
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/12condicional_operadores_logicos/obj/Debug/net9.0/12condicional_operadores_logicos.AssemblyInfo.cs
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/12condicional_operadores_logicos/obj/Debug/net9.0/12condicional_operadores_logicos.csproj.CoreCompileInputs.cache
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/12condicional_operadores_logicos/obj/Debug/net9.0/12condicional_operadores_logicos.sourcelink.json
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/12condicional_operadores_logicos/bin/Debug/net9.0/12condicional_operadores_logicos
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/12condicional_operadores_logicos/bin/Debug/net9.0/12condicional_operadores_logicos.deps.json
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/12condicional_operadores_logicos/bin/Debug/net9.0/12condicional_operadores_logicos.runtimeconfig.json
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/12condicional_operadores_logicos/bin/Debug/net9.0/12condicional_operadores_logicos.dll
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/12condicional_operadores_logicos/bin/Debug/net9.0/12condicional_operadores_logicos.pdb
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/12condicional_operadores_logicos/obj/Debug/net9.0/12condicional_operadores_logicos.dll
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/12condicional_operadores_logicos/obj/Debug/net9.0/refint/12condicional_operadores_logicos.dll
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/12condicional_operadores_logicos/obj/Debug/net9.0/12condicional_operadores_logicos.pdb
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/12condicional_operadores_logicos/obj/Debug/net9.0/12condicional_operadores_logicos.genruntimeconfig.cache
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/12condicional_operadores_logicos/obj/Debug/net9.0/ref/12condicional_operadores_logicos.dll
