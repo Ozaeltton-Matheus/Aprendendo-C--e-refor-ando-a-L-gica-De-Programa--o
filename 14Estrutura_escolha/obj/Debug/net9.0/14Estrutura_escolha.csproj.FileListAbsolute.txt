@@ -1,0 +1,15 @@
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/14Estrutura_escolha/obj/Debug/net9.0/14Estrutura_escolha.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/14Estrutura_escolha/obj/Debug/net9.0/14Estrutura_escolha.AssemblyInfoInputs.cache
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/14Estrutura_escolha/obj/Debug/net9.0/14Estrutura_escolha.AssemblyInfo.cs
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/14Estrutura_escolha/obj/Debug/net9.0/14Estrutura_escolha.csproj.CoreCompileInputs.cache
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/14Estrutura_escolha/obj/Debug/net9.0/14Estrutura_escolha.sourcelink.json
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/14Estrutura_escolha/bin/Debug/net9.0/14Estrutura_escolha
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/14Estrutura_escolha/bin/Debug/net9.0/14Estrutura_escolha.deps.json
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/14Estrutura_escolha/bin/Debug/net9.0/14Estrutura_escolha.runtimeconfig.json
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/14Estrutura_escolha/bin/Debug/net9.0/14Estrutura_escolha.dll
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/14Estrutura_escolha/bin/Debug/net9.0/14Estrutura_escolha.pdb
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/14Estrutura_escolha/obj/Debug/net9.0/14Estrutura_escolha.dll
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/14Estrutura_escolha/obj/Debug/net9.0/refint/14Estrutura_escolha.dll
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/14Estrutura_escolha/obj/Debug/net9.0/14Estrutura_escolha.pdb
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/14Estrutura_escolha/obj/Debug/net9.0/14Estrutura_escolha.genruntimeconfig.cache
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/14Estrutura_escolha/obj/Debug/net9.0/ref/14Estrutura_escolha.dll

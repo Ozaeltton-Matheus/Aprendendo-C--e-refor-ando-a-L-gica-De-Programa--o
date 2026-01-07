@@ -1,0 +1,15 @@
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/13Operador_ternario/obj/Debug/net9.0/13Operador_ternario.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/13Operador_ternario/obj/Debug/net9.0/13Operador_ternario.AssemblyInfoInputs.cache
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/13Operador_ternario/obj/Debug/net9.0/13Operador_ternario.AssemblyInfo.cs
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/13Operador_ternario/obj/Debug/net9.0/13Operador_ternario.csproj.CoreCompileInputs.cache
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/13Operador_ternario/obj/Debug/net9.0/13Operador_ternario.sourcelink.json
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/13Operador_ternario/bin/Debug/net9.0/13Operador_ternario
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/13Operador_ternario/bin/Debug/net9.0/13Operador_ternario.deps.json
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/13Operador_ternario/bin/Debug/net9.0/13Operador_ternario.runtimeconfig.json
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/13Operador_ternario/bin/Debug/net9.0/13Operador_ternario.dll
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/13Operador_ternario/bin/Debug/net9.0/13Operador_ternario.pdb
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/13Operador_ternario/obj/Debug/net9.0/13Operador_ternario.dll
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/13Operador_ternario/obj/Debug/net9.0/refint/13Operador_ternario.dll
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/13Operador_ternario/obj/Debug/net9.0/13Operador_ternario.pdb
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/13Operador_ternario/obj/Debug/net9.0/13Operador_ternario.genruntimeconfig.cache
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/13Operador_ternario/obj/Debug/net9.0/ref/13Operador_ternario.dll
