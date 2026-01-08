@@ -1,0 +1,15 @@
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/16laco_faca_enquanto/bin/Debug/net9.0/16laco_faca_enquanto
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/16laco_faca_enquanto/bin/Debug/net9.0/16laco_faca_enquanto.deps.json
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/16laco_faca_enquanto/bin/Debug/net9.0/16laco_faca_enquanto.runtimeconfig.json
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/16laco_faca_enquanto/bin/Debug/net9.0/16laco_faca_enquanto.dll
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/16laco_faca_enquanto/bin/Debug/net9.0/16laco_faca_enquanto.pdb
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/16laco_faca_enquanto/obj/Debug/net9.0/16laco_faca_enquanto.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/16laco_faca_enquanto/obj/Debug/net9.0/16laco_faca_enquanto.AssemblyInfoInputs.cache
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/16laco_faca_enquanto/obj/Debug/net9.0/16laco_faca_enquanto.AssemblyInfo.cs
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/16laco_faca_enquanto/obj/Debug/net9.0/16laco_faca_enquanto.csproj.CoreCompileInputs.cache
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/16laco_faca_enquanto/obj/Debug/net9.0/16laco_faca_enquanto.sourcelink.json
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/16laco_faca_enquanto/obj/Debug/net9.0/16laco_faca_enquanto.dll
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/16laco_faca_enquanto/obj/Debug/net9.0/refint/16laco_faca_enquanto.dll
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/16laco_faca_enquanto/obj/Debug/net9.0/16laco_faca_enquanto.pdb
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/16laco_faca_enquanto/obj/Debug/net9.0/16laco_faca_enquanto.genruntimeconfig.cache
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/16laco_faca_enquanto/obj/Debug/net9.0/ref/16laco_faca_enquanto.dll
