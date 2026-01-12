@@ -13,3 +13,18 @@
 /home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/18vetor/obj/Debug/net9.0/18vetor.pdb
 /home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/18vetor/obj/Debug/net9.0/18vetor.genruntimeconfig.cache
 /home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/18vetor/obj/Debug/net9.0/ref/18vetor.dll
+/tmp/Teste/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/18vetor/bin/Debug/net9.0/18vetor
+/tmp/Teste/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/18vetor/bin/Debug/net9.0/18vetor.deps.json
+/tmp/Teste/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/18vetor/bin/Debug/net9.0/18vetor.runtimeconfig.json
+/tmp/Teste/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/18vetor/bin/Debug/net9.0/18vetor.dll
+/tmp/Teste/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/18vetor/bin/Debug/net9.0/18vetor.pdb
+/tmp/Teste/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/18vetor/obj/Debug/net9.0/18vetor.GeneratedMSBuildEditorConfig.editorconfig
+/tmp/Teste/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/18vetor/obj/Debug/net9.0/18vetor.AssemblyInfoInputs.cache
+/tmp/Teste/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/18vetor/obj/Debug/net9.0/18vetor.AssemblyInfo.cs
+/tmp/Teste/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/18vetor/obj/Debug/net9.0/18vetor.csproj.CoreCompileInputs.cache
+/tmp/Teste/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/18vetor/obj/Debug/net9.0/18vetor.sourcelink.json
+/tmp/Teste/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/18vetor/obj/Debug/net9.0/18vetor.dll
+/tmp/Teste/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/18vetor/obj/Debug/net9.0/refint/18vetor.dll
+/tmp/Teste/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/18vetor/obj/Debug/net9.0/18vetor.pdb
+/tmp/Teste/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/18vetor/obj/Debug/net9.0/18vetor.genruntimeconfig.cache
+/tmp/Teste/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/18vetor/obj/Debug/net9.0/ref/18vetor.dll

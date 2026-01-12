@@ -1,0 +1,15 @@
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/19laco_foreach/bin/Debug/net9.0/19laco_foreach
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/19laco_foreach/bin/Debug/net9.0/19laco_foreach.deps.json
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/19laco_foreach/bin/Debug/net9.0/19laco_foreach.runtimeconfig.json
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/19laco_foreach/bin/Debug/net9.0/19laco_foreach.dll
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/19laco_foreach/bin/Debug/net9.0/19laco_foreach.pdb
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/19laco_foreach/obj/Debug/net9.0/19laco_foreach.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/19laco_foreach/obj/Debug/net9.0/19laco_foreach.AssemblyInfoInputs.cache
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/19laco_foreach/obj/Debug/net9.0/19laco_foreach.AssemblyInfo.cs
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/19laco_foreach/obj/Debug/net9.0/19laco_foreach.csproj.CoreCompileInputs.cache
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/19laco_foreach/obj/Debug/net9.0/19laco_foreach.sourcelink.json
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/19laco_foreach/obj/Debug/net9.0/19laco_foreach.dll
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/19laco_foreach/obj/Debug/net9.0/refint/19laco_foreach.dll
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/19laco_foreach/obj/Debug/net9.0/19laco_foreach.pdb
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/19laco_foreach/obj/Debug/net9.0/19laco_foreach.genruntimeconfig.cache
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/19laco_foreach/obj/Debug/net9.0/ref/19laco_foreach.dll
