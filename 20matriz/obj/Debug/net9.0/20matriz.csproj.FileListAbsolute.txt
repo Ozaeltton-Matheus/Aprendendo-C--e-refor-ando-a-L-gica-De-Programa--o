@@ -1,0 +1,15 @@
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/20matriz/bin/Debug/net9.0/20matriz
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/20matriz/bin/Debug/net9.0/20matriz.deps.json
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/20matriz/bin/Debug/net9.0/20matriz.runtimeconfig.json
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/20matriz/bin/Debug/net9.0/20matriz.dll
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/20matriz/bin/Debug/net9.0/20matriz.pdb
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/20matriz/obj/Debug/net9.0/20matriz.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/20matriz/obj/Debug/net9.0/20matriz.AssemblyInfoInputs.cache
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/20matriz/obj/Debug/net9.0/20matriz.AssemblyInfo.cs
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/20matriz/obj/Debug/net9.0/20matriz.csproj.CoreCompileInputs.cache
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/20matriz/obj/Debug/net9.0/20matriz.sourcelink.json
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/20matriz/obj/Debug/net9.0/20matriz.dll
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/20matriz/obj/Debug/net9.0/refint/20matriz.dll
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/20matriz/obj/Debug/net9.0/20matriz.pdb
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/20matriz/obj/Debug/net9.0/20matriz.genruntimeconfig.cache
+/home/matheus/Estudos de programação/Aprendendo-C--e-refor-ando-a-L-gica-De-Programa--o/20matriz/obj/Debug/net9.0/ref/20matriz.dll
