@@ -15,9 +15,9 @@ Console.WriteLine($"{nomes[0]} e {nomes[3]}"); // Se não colocar mais nada o Co
 for(int indice = 0; indice <4; indice++)
 {
     Console.WriteLine(nomes[indice]);
-    while(nomes[indice] == "Vivian")
+    while(indice == 3)
 {
-    Console.WriteLine($"Eu gosto de você {nomes[3]}! ");
+    Console.WriteLine($"Eu gosto de você {nomes[3]}!");
     break;
 }
 }
