@@ -17,7 +17,7 @@ for(int indice = 0; indice <4; indice++)
     Console.WriteLine(nomes[indice]);
     while(nomes[indice] == "Vivian")
 {
-    Console.WriteLine("Eu gosto de você Vivian!");
+    Console.WriteLine($"Eu gosto de você {nomes[3]}! ");
     break;
 }
 }
