@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "1. Pedir nome, idade e altura do usuário e mostrar formatado em uma frase./1.0.0": {
+        "runtime": {
+          "1. Pedir nome, idade e altura do usuário e mostrar formatado em uma frase..dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1. Pedir nome, idade e altura do usuário e mostrar formatado em uma frase./1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
